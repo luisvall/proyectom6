@@ -16,3 +16,4 @@ export default defineConfig({
     },
   },
 })
+module.exports = {publicPath: "/vue-project-practica6/"}
